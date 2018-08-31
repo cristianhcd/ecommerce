@@ -11,14 +11,14 @@
 			"name": "16-Speed",
 			"description": "Smooth shifting through all gears for city riding.",
 			"price": 524,
-			"image": "/product/product-5.jpg",
+			"image": "https://raw.githubusercontent.com/cristianhcd/ecommerce/master/templates/product/product-5.jpg",
 			"category": "accessories"
 		},
 		{
 			"name": "Sprocket Set",
 			"description": "Steel, designed for long lasting stability.",
 			"price": 581,
-			"image": "product/product-1.jpg",
+			"image": "https://raw.githubusercontent.com/cristianhcd/ecommerce/master/templates/product/product-1.jpg",
 			"category": "bikes"
 		},
 		{
